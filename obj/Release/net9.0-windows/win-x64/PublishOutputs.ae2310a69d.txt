@@ -1,0 +1,2 @@
+c:\Users\krzywicki.grzegorz\Desktop\specjalny folder na zadanie\publish\StoperApp.pdb
+c:\Users\krzywicki.grzegorz\Desktop\specjalny folder na zadanie\publish\StoperApp.exe
